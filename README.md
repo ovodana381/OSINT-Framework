@@ -32,9 +32,9 @@ For new resources, please ensure that the site is available for public and free 
 
 ```
 {
-  "name": "Example Name",
+  "name": "margono",
   "type": "url",
-  "url": "http://example.com"
+  "url": "http://paninbank.com"
 }
 ```
 
